@@ -262,4 +262,4 @@ async def on_ready():
 """)
     await bot.change_presence(activity=discord.Game(name=f"{BOT_NAME} | !start"))
 
-bot.run('MTMyODIzMDcyOTQ5NDAzNjUxMQ.GVGMGQ.aN_8kOaJdC4gGyPKA5K4farKaEBka-cGr9Wp78')
+bot.run('')
